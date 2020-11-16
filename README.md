@@ -17,4 +17,6 @@ Add the following styles to the page.
 
 ### Video
 
-This video shows you how to complete the lesson task 1.2. Only watch it after attempting the lesson task by yourself. [View on Vimeo](https://vimeo.com/manage/478528726/general)
+This video shows you how to complete the lesson task 1.3. Only watch it after attempting the lesson task by yourself.
+
+[View on Vimeo](https://vimeo.com/manage/478528726/general)
