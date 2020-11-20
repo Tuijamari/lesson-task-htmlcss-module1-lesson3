@@ -14,6 +14,4 @@ Add the following styles to the page.
 - The grey background on the reviews section
 - The light grey on the guitar list elements
 
-By the end of the task, your home page should look like this: 
-![Image from Gyazo](https://i.gyazo.com/308ec66c3776df79a33ce572f48eadfa.gif)
-[![Image from Gyazo](https://i.gyazo.com/308ec66c3776df79a33ce572f48eadfa.gif)](https://gyazo.com/308ec66c3776df79a33ce572f48eadfa)
+![Result of Task 1.3](https://i.gyazo.com/308ec66c3776df79a33ce572f48eadfa.gif)
