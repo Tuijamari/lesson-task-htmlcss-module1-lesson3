@@ -19,4 +19,4 @@ Add the following styles to the page.
 
 This video shows you how to complete the lesson task 1.3. Only watch it after attempting the lesson task by yourself.
 
-[View on Vimeo](https://vimeo.com/manage/478528726/general)
+[View on Vimeo](https://vimeo.com/478528726/8f53db0a5a)
