@@ -14,4 +14,4 @@ Add the following styles to the page.
 - The grey background on the reviews section
 - The light grey on the guitar list elements
 
-![Result of Task 1.3](https://i.gyazo.com/308ec66c3776df79a33ce572f48eadfa.gif)
+<img src="https://i.gyazo.com/308ec66c3776df79a33ce572f48eadfa.gif" alt="Image from Gyazo" width="50%"/>
