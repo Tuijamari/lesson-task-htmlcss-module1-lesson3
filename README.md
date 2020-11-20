@@ -15,4 +15,5 @@ Add the following styles to the page.
 - The light grey on the guitar list elements
 
 By the end of your task, your site should look like this:
-<a href="https://gyazo.com/543dccac9be1618ea9ead144a71b5ef0"><img src="https://i.gyazo.com/543dccac9be1618ea9ead144a71b5ef0.gif" alt="Result from Task 1.3" width="1280"/></a>
+
+![Result of task 1.3](assets/html-css_task1-3_result.gif)
