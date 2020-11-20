@@ -16,4 +16,4 @@ Add the following styles to the page.
 
 By the end of the task, your home page should look like this: 
 
-![Image from Gyazo](https://i.gyazo.com/308ec66c3776df79a33ce572f48eadfa.gif)](https://gyazo.com/308ec66c3776df79a33ce572f48eadfa)
+![Image from Gyazo](https://i.gyazo.com/308ec66c3776df79a33ce572f48eadfa.gif)
