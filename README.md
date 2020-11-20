@@ -13,5 +13,3 @@ Add the following styles to the page.
 - The color on the red and green buttons as well as the rounded corners
 - The grey background on the reviews section
 - The light grey on the guitar list elements
-
-<img src="https://i.gyazo.com/308ec66c3776df79a33ce572f48eadfa.gif" alt="Image from Gyazo" width="50%"/>
